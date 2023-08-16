@@ -1,15 +1,3 @@
-/******************************************
-
-Program Assignment 3
-
-This program Checks for a string to search for matches on a list of names and phone numbers
-
-Author: Cesar Roncancio
-
-Created : 9/19/2021
-
-Revisions : 9/19/2021 I used string::npos to check if the string name is not on the array but if the name is found uing .find(name) then display the items that match with the entered string.
-******************************************/
 #include <iostream>
 #include <string>
 
